@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//shyrapson.github.io/react-dark-mode/static/css/main.543e05e3.css",
+    "main.js": "/https//shyrapson.github.io/react-dark-mode/static/js/main.eae0cec7.js",
+    "index.html": "/https//shyrapson.github.io/react-dark-mode/index.html",
+    "main.543e05e3.css.map": "/https//shyrapson.github.io/react-dark-mode/static/css/main.543e05e3.css.map",
+    "main.eae0cec7.js.map": "/https//shyrapson.github.io/react-dark-mode/static/js/main.eae0cec7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.543e05e3.css",
+    "static/js/main.eae0cec7.js"
+  ]
+}
